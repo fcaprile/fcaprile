@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing and solving problems
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on work projects
-- 📫 How to reach me: fcaprile@♀gmail.com
+- 📫 How to reach me: fcaprile@gmail.com
 
 <!---
 fcaprile/fcaprile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
