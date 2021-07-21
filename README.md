@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fcaprile
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on work projects
+- 🌱 I’m currently improving my knowledge in machine learning and SQL
 - 📫 How to reach me: fcaprile@gmail.com
 
 <!---
