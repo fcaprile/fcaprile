@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Caprile. 
 - :man: I'm a Jr. Back End Developer at Iquall Networks
-- My list of known developement tools includde Python, Typescript and Golang
+- :computer: My list of known developement tools includde Python, Typescript and Golang
 - 👀 I’m interested in relational databases, data science
 - 🌱 I’m currently improving my knowledge in test driven development
 - 📫 How to reach me: fcaprile@gmail.com
